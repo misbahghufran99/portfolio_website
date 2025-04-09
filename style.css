@@ -196,10 +196,6 @@ nav ul li a:hover::after {
     opacity: 0.9;
 }
 
-/*.hero-image {
-    flex: 1;
-}*/
-
 .hero-image {
     width: 300px;  /* Adjust as needed */
     height: 300px;
